@@ -1,0 +1,19 @@
+{
+  "name": "cinescope",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gonzagut99/CineScope.git"
+  },
+  "author": "Gonzalo Gutierrez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gonzagut99/CineScope/issues"
+  },
+  "homepage": "https://github.com/Gonzagut99/CineScope#readme"
+}
